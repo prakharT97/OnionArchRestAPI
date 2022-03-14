@@ -1,0 +1,17 @@
+C:\Users\Prakhar\source\repos\OnionArchCRUD\ServiceLayer\bin\Debug\netcoreapp3.1\ServiceLayer.deps.json
+C:\Users\Prakhar\source\repos\OnionArchCRUD\ServiceLayer\bin\Debug\netcoreapp3.1\ServiceLayer.dll
+C:\Users\Prakhar\source\repos\OnionArchCRUD\ServiceLayer\bin\Debug\netcoreapp3.1\ServiceLayer.pdb
+C:\Users\Prakhar\source\repos\OnionArchCRUD\ServiceLayer\bin\Debug\netcoreapp3.1\DomainLayer.dll
+C:\Users\Prakhar\source\repos\OnionArchCRUD\ServiceLayer\bin\Debug\netcoreapp3.1\RepositoryLayer.dll
+C:\Users\Prakhar\source\repos\OnionArchCRUD\ServiceLayer\bin\Debug\netcoreapp3.1\RepositoryLayer.pdb
+C:\Users\Prakhar\source\repos\OnionArchCRUD\ServiceLayer\bin\Debug\netcoreapp3.1\DomainLayer.pdb
+C:\Users\Prakhar\source\repos\OnionArchCRUD\ServiceLayer\obj\Debug\netcoreapp3.1\ServiceLayer.csprojAssemblyReference.cache
+C:\Users\Prakhar\source\repos\OnionArchCRUD\ServiceLayer\obj\Debug\netcoreapp3.1\ServiceLayer.AssemblyInfoInputs.cache
+C:\Users\Prakhar\source\repos\OnionArchCRUD\ServiceLayer\obj\Debug\netcoreapp3.1\ServiceLayer.AssemblyInfo.cs
+C:\Users\Prakhar\source\repos\OnionArchCRUD\ServiceLayer\obj\Debug\netcoreapp3.1\ServiceLayer.csproj.CopyComplete
+C:\Users\Prakhar\source\repos\OnionArchCRUD\ServiceLayer\obj\Debug\netcoreapp3.1\ServiceLayer.dll
+C:\Users\Prakhar\source\repos\OnionArchCRUD\ServiceLayer\obj\Debug\netcoreapp3.1\ServiceLayer.pdb
+C:\Users\Prakhar\source\repos\OnionArchCRUD\ServiceLayer\bin\Debug\netcoreapp3.1\ServiceLayer.runtimeconfig.json
+C:\Users\Prakhar\source\repos\OnionArchCRUD\ServiceLayer\bin\Debug\netcoreapp3.1\ServiceLayer.runtimeconfig.dev.json
+C:\Users\Prakhar\source\repos\OnionArchCRUD\ServiceLayer\obj\Debug\netcoreapp3.1\ServiceLayer.genruntimeconfig.cache
+C:\Users\Prakhar\source\repos\OnionArchCRUD\ServiceLayer\obj\Debug\netcoreapp3.1\ServiceLayer.csproj.CoreCompileInputs.cache

@@ -1,0 +1,12 @@
+C:\Users\Prakhar\source\repos\OnionArchCRUD\DomainLayer\bin\Debug\netcoreapp3.1\DomainLayer.deps.json
+C:\Users\Prakhar\source\repos\OnionArchCRUD\DomainLayer\bin\Debug\netcoreapp3.1\DomainLayer.dll
+C:\Users\Prakhar\source\repos\OnionArchCRUD\DomainLayer\bin\Debug\netcoreapp3.1\DomainLayer.pdb
+C:\Users\Prakhar\source\repos\OnionArchCRUD\DomainLayer\obj\Debug\netcoreapp3.1\DomainLayer.AssemblyInfoInputs.cache
+C:\Users\Prakhar\source\repos\OnionArchCRUD\DomainLayer\obj\Debug\netcoreapp3.1\DomainLayer.AssemblyInfo.cs
+C:\Users\Prakhar\source\repos\OnionArchCRUD\DomainLayer\obj\Debug\netcoreapp3.1\DomainLayer.dll
+C:\Users\Prakhar\source\repos\OnionArchCRUD\DomainLayer\obj\Debug\netcoreapp3.1\DomainLayer.pdb
+C:\Users\Prakhar\source\repos\OnionArchCRUD\DomainLayer\bin\Debug\netcoreapp3.1\DomainLayer.runtimeconfig.json
+C:\Users\Prakhar\source\repos\OnionArchCRUD\DomainLayer\bin\Debug\netcoreapp3.1\DomainLayer.runtimeconfig.dev.json
+C:\Users\Prakhar\source\repos\OnionArchCRUD\DomainLayer\obj\Debug\netcoreapp3.1\DomainLayer.csprojAssemblyReference.cache
+C:\Users\Prakhar\source\repos\OnionArchCRUD\DomainLayer\obj\Debug\netcoreapp3.1\DomainLayer.genruntimeconfig.cache
+C:\Users\Prakhar\source\repos\OnionArchCRUD\DomainLayer\obj\Debug\netcoreapp3.1\DomainLayer.csproj.CoreCompileInputs.cache
