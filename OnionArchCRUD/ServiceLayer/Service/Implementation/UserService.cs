@@ -65,7 +65,7 @@ namespace ServiceLayer.Service.Implementation
         {
             try
             {
-                var userValue = this._dbContext.tblUser.Find(user.userId);
+                var userValue = this._dbContext.tblUser.Find(user);
                 if (userValue != null)
                 {
                     userValue.userName = user.userName;

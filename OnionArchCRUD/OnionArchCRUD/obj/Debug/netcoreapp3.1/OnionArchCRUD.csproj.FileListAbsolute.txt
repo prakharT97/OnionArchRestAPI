@@ -12,6 +12,7 @@ C:\Users\Prakhar\source\repos\OnionArchCRUD\OnionArchCRUD\bin\Debug\netcoreapp3.
 C:\Users\Prakhar\source\repos\OnionArchCRUD\OnionArchCRUD\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
 C:\Users\Prakhar\source\repos\OnionArchCRUD\OnionArchCRUD\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
 C:\Users\Prakhar\source\repos\OnionArchCRUD\OnionArchCRUD\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Prakhar\source\repos\OnionArchCRUD\OnionArchCRUD\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
 C:\Users\Prakhar\source\repos\OnionArchCRUD\OnionArchCRUD\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
 C:\Users\Prakhar\source\repos\OnionArchCRUD\OnionArchCRUD\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
 C:\Users\Prakhar\source\repos\OnionArchCRUD\OnionArchCRUD\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
@@ -35,6 +36,8 @@ C:\Users\Prakhar\source\repos\OnionArchCRUD\OnionArchCRUD\bin\Debug\netcoreapp3.
 C:\Users\Prakhar\source\repos\OnionArchCRUD\OnionArchCRUD\obj\Debug\netcoreapp3.1\OnionArchCRUD.csprojAssemblyReference.cache
 C:\Users\Prakhar\source\repos\OnionArchCRUD\OnionArchCRUD\obj\Debug\netcoreapp3.1\OnionArchCRUD.AssemblyInfoInputs.cache
 C:\Users\Prakhar\source\repos\OnionArchCRUD\OnionArchCRUD\obj\Debug\netcoreapp3.1\OnionArchCRUD.AssemblyInfo.cs
+C:\Users\Prakhar\source\repos\OnionArchCRUD\OnionArchCRUD\obj\Debug\netcoreapp3.1\OnionArchCRUD.csproj.CoreCompileInputs.cache
+C:\Users\Prakhar\source\repos\OnionArchCRUD\OnionArchCRUD\obj\Debug\netcoreapp3.1\OnionArchCRUD.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Prakhar\source\repos\OnionArchCRUD\OnionArchCRUD\obj\Debug\netcoreapp3.1\OnionArchCRUD.RazorTargetAssemblyInfo.cache
 C:\Users\Prakhar\source\repos\OnionArchCRUD\OnionArchCRUD\obj\Debug\netcoreapp3.1\OnionArchCRUD.csproj.CopyComplete
 C:\Users\Prakhar\source\repos\OnionArchCRUD\OnionArchCRUD\obj\Debug\netcoreapp3.1\staticwebassets\OnionArchCRUD.StaticWebAssets.Manifest.cache
@@ -42,6 +45,3 @@ C:\Users\Prakhar\source\repos\OnionArchCRUD\OnionArchCRUD\obj\Debug\netcoreapp3.
 C:\Users\Prakhar\source\repos\OnionArchCRUD\OnionArchCRUD\obj\Debug\netcoreapp3.1\OnionArchCRUD.dll
 C:\Users\Prakhar\source\repos\OnionArchCRUD\OnionArchCRUD\obj\Debug\netcoreapp3.1\OnionArchCRUD.pdb
 C:\Users\Prakhar\source\repos\OnionArchCRUD\OnionArchCRUD\obj\Debug\netcoreapp3.1\OnionArchCRUD.genruntimeconfig.cache
-C:\Users\Prakhar\source\repos\OnionArchCRUD\OnionArchCRUD\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
-C:\Users\Prakhar\source\repos\OnionArchCRUD\OnionArchCRUD\obj\Debug\netcoreapp3.1\OnionArchCRUD.csproj.CoreCompileInputs.cache
-C:\Users\Prakhar\source\repos\OnionArchCRUD\OnionArchCRUD\obj\Debug\netcoreapp3.1\OnionArchCRUD.MvcApplicationPartsAssemblyInfo.cache

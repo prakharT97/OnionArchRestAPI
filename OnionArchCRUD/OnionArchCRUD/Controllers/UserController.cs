@@ -14,6 +14,7 @@ namespace OnionArchCRUD.Controllers
     public class UserController : ControllerBase
     {
         private readonly IUser _user;
+        
         public UserController(IUser user)
         {
             this._user = user;
@@ -28,7 +29,7 @@ namespace OnionArchCRUD.Controllers
             return Ok(response);
         }
         //Get Single record
-        [HttpGet("get")]
+        [HttpGet("get/{id}")]
         public IActionResult GetSingleRecord(long id) {
 
             return Ok(this._user.GetSingleRepo(id));
@@ -46,9 +47,9 @@ namespace OnionArchCRUD.Controllers
             return Ok(this._user.RemoveUser(id));
         }
         //Update user
-        [HttpPut("edit")]
+        [HttpPut("edit/{id}")]
         public IActionResult UpdateUser(User user) {
-
+            
             return Ok(this._user.UpdateUserRepo(user));
         
         }

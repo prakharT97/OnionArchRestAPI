@@ -12,7 +12,7 @@ namespace RepositoryLayer
         
             
         }
-        
+
         public DbSet<User> tblUser { get; set; } 
     }
 }
